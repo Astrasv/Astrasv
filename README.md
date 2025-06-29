@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=astrasv&label=Profile%20views&color=0e75b6&style=flat" alt="astrasv" /> </p>
 
-- 🔭 I’m currently working on [NodeGainsDB](https://github.com/Astrasv/NodeGainsDB)
+- 🔭 I’m currently working on [Grinding Neetcode 150](https://github.com/Astrasv/grind-neetcode)
 
 - 🌱 I’m currently learning **PySpark**
 
