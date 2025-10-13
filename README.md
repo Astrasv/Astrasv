@@ -3,11 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=astrasv&label=Profile%20views&color=0e75b6&style=flat" alt="astrasv" /> </p>
 
-- 🔭 I’m currently working on [Grinding Neetcode 150](https://github.com/Astrasv/grind-neetcode)
+- 🔭 I’m currently working on [Grinding Neetcode 150](https://github.com/Astrasv/ChordForge-GCPT)
 
-- 🌱 I’m currently learning **PySpark**
+- 🌱 I’m currently learning **Core Math of DL Algorithms**
 
 - 👯 I’m looking to collaborate on [NodeGainsDB](https://github.com/Astrasv/NodeGainsDB)
+
 
 - 📫 How to reach me **sudharsan.vanamali@gmail.com**
 
