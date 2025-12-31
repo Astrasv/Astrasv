@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=astrasv&label=Profile%20views&color=0e75b6&style=flat" alt="astrasv" /> </p>
 
-- 🔭 I’m currently working on [Chord-GCPT](https://github.com/Astrasv/ChordForge-GCPT)
+- 🔭 I’m currently working on [The-Gully](https://github.com/Astrasv/the-gully)
 
 - 🌱 I’m currently learning **Core Math of DL Algorithms**
 
