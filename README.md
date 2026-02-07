@@ -1,14 +1,30 @@
 <div align="center">
 
-<!-- Catppuccin Mocha Themed Header -->
 ![alt text](github-header-banner.png)
 
-<!-- Typing SVG with Catppuccin colors -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=09ddf7&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Data+Aficionado+%F0%9F%93%8A+Machine+Learning+Enthusiast+%F0%9F%A4%96;Business+%7C+Sports+%7C+Spatial+Analytics+%F0%9F%8C%8D;Building+the+future%2C+one+model+at+a+time+%F0%9F%9A%80" alt="Typing SVG" /></a>
 
+<div align="center">
+  <table width="80%">
+    <tr>
+      <td align="center" style="border: 2px solid #0070ff; border-radius: 15px; background-color: #0d1117;">
+        <br>
+        <samp>
+          <font color="#00ffff">✧</font> 
+          <b>கற்றது கைமண் அளவு, கல்லாதது உலகளவு</b> 
+          <font color="#00ffff">✧</font>
+        </samp>
+        <br><br>
+        <kbd>
+          <i>"What we've learned is a handful of sand; what we haven't is the size of the world."</i>
+        </kbd>
+        <br><br>
+      </td>
+    </tr>
+  </table>
+</div>
 <br/>
 
-<!-- Profile Views Counter with Catppuccin theme -->
 <img src="https://komarev.com/ghpvc/?username=astrasv&label=Profile%20Views&color=09ddf7&style=for-the-badge&abbreviated=true" alt="Profile views" />
 <img src="https://img.shields.io/github/followers/astrasv?style=for-the-badge&color=89b4fa&labelColor=1e1e2e" alt="Followers">
 <img src="https://img.shields.io/github/stars/astrasv?style=for-the-badge&color=a6e3a1&labelColor=1e1e2e" alt="Stars">
@@ -17,8 +33,6 @@
 
 <br/>
 
-<!-- Animated Wave -->
-<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> About Me
 
@@ -134,24 +148,13 @@ me.say_hi()
 <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
 
 ## 📊 GitHub Analytics
-
+<div align="center">
+    
 ![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=Astrasv&theme=dark)
 
 ![Astrasv GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Astrasv&show_icons=true&theme=radical)
 
-<div align="center">
-
-
-
-</div>
-
-## 📈 Streak & Activity
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Astrasv)](https://git.io/streak-stats)
-<img src="https://metrics.lecoq.io/astrasv?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&config.timezone=Asia%2FKolkata" alt="Metrics" width="100%">
-
+[![Astrasv's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Astrasv&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
 
 ## 🏆 GitHub Trophies
@@ -163,22 +166,7 @@ me.say_hi()
 </div>
 
 
-## 💭 Random Dev Quote
 
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha&border=true&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4&border_color=cba6f7"/>
-
-</div>
-
-
-
-<div align="center">
-
-### ⚡ Connection Established
-
-**"கற்றது கைமண் அளவு, கல்லாதது உலகளவு"** *(What we've learned is a handful of sand; what we haven't is the size of the world.)*
-</div>
 ---
 
 ### 🛠️ Runtime Status
@@ -191,3 +179,11 @@ while life.is_active():
         kaipula_thoongu()
 ```
 
+
+## 💭 Random Dev Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha&border=true&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4&border_color=cba6f7"/>
+
+</div>
